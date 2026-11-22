@@ -169,7 +169,7 @@ one-week-challenge/
 
 ### Technology Stack
 
-- **Language:** Python 3.12
+- **Language:** Python 3.13
 - **Package Manager:** uv
 - **Data Processing:** Pandas, NumPy, PyArrow
 - **SQL Analytics:** DuckDB
@@ -182,7 +182,7 @@ one-week-challenge/
 ### Setup
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/DevSmapy/one-week-challenge
 cd one-week-challenge
 
 uv sync --locked
